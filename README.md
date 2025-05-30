@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RyanKim428
+- 👋 Hi, I’m @Ryan428
 - 👀 I’m interested in R Studio, Python and SQL
 - 🌱 I’m currently studying in the University of Melbourne with Master of Information Systems.
 - 💞️ I’m looking to collaborate on new project no matter what field. Music, AI, psychology, education, and so on could be my interests.
